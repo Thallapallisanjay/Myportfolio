@@ -1,0 +1,25 @@
+
+body {
+    font-family: Arial;
+    background-color: lightgray;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    background-color: navy;
+    color: white;
+    padding: 30px;
+}
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+footer {
+    background-color: navy;
+    color: white;
+    padding: 15px;
+}
